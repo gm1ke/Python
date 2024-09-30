@@ -1,0 +1,5 @@
+# Conclusions
+In this task, we found that the results for trial stores 77 and 86 showed a statistically significant difference in at least two
+stores of the three months of the trial period. However, this was not the case for store 88. We can check to see if the trial was
+implemented differently in store 88 but even so, we have been able to see that the trial has resulted in a significant increase
+in sales.
